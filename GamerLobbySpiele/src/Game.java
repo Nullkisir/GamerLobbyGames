@@ -9,14 +9,19 @@ public class Game {
 
         int Spielart = scan.nextInt();
 
-       /* switch(Spielart){
-            case 1:dcZitatGame.zitatGame();
+        switch (Spielart) {
+            case 1:
+                dcZitatGame.zitatGame();
                 break;
-            case 2:LolZitatGame.zitatGame();
+            case 2:
+                LolZitatGame.zitatGame();
                 break;
-            case 3:FaktenSpiel.faktenGame();
+            case 3:
+                FaktenSpiel.faktenGame();
                 break;
-            case 4:SchaetzSpiel.schaetzGame();
-                break;  */
+            case 4:
+                SchaetzSpiel.schaetzGame();
+                break;
         }
     }
+}

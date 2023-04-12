@@ -277,6 +277,26 @@ public class dcZitat{
             "Endlich diggs",
             //145
             "Bayern gehoert doch nicht zu Deutschland, der Streik ist doch nur in Deutschland.",
+            "hoer auf mich anzuschwulen",
+            "Hitler ist in Wirklichkeit ein 12 jaehriges Maedchen",
+            "(Während wir auf dem Sofa liegen und ne Serie gucken.)\n"
+                    + "Nimm Mal deine Hand aus der Hose Camo",
+            "ääää ää ääää äää",
+            //150
+            "Ich will das Leon mich weckt.",
+            "Ich will dich Mal umziehen sehen (zu Drache)",
+            "Ich will aber einmal sehen wie du kommst (zu Camo)",
+            "Oh yeah",
+            "wenn ihr eure Handy nicht wegpackt, fasse ich eure Penis an",
+            //155
+            "Handy oder Penis!!! ",
+            "was heisst subben",
+            "Ja unterstütz ich Juden sind scheiße",
+            "Ich habe auch noch so 6 Spiele die ich upgraden muss",
+            "Hanna komm schneller vom Duschen",
+            //160
+            "In 5 Hälften Teilen ",
+            "Wäre es Elise wäre es hier nicht wegen dem Schnee weiß",
 
     };
 
@@ -456,6 +476,25 @@ public class dcZitat{
             "Drache",
             //145
             "Camo",
+            "Drache",
+            "Drache",
+            "Drache",
+            "Camo",
+            //150
+            "Camo",
+            "Nullkisir",
+            "Nullkisir",
+            "Nullkisir",
+            "Nullkisir",
+            //155
+            "Nullkisir",
+            "Drache",
+            "Alice",
+            "Nullkisir",
+            "Camo",
+            //160
+            "Nullkisir",
+            "Alice",
 
     };
 

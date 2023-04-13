@@ -226,9 +226,9 @@ public class dcZitat{
                     + "* (Person wurde genannt) erklaert nochmal *\r\n"
                     + "* (Person wurde genannt) lacht nur *",
             "2 Personen:\r\n"
-                    + "Person1. Ist es unwichtig für dich ob du ihrgendwann stirbst?\r\n"
+                    + "Person1. Ist es unwichtig fuer dich ob du ihrgendwann stirbst?\r\n"
                     + "Person2. Nein\r\n"
-                    + "Person1. Ist es wichtig für dich unsterblich zu sein?\r\n"
+                    + "Person1. Ist es wichtig fuer dich unsterblich zu sein?\r\n"
                     + "Person2. Nein",
             "Unsterblich sein und nicht sterben sind zwei voellig unterschiedliche Sachen. Natuerlich kann man bei beiden nein sagen",
             //115
@@ -279,9 +279,9 @@ public class dcZitat{
             "Bayern gehoert doch nicht zu Deutschland, der Streik ist doch nur in Deutschland.",
             "hoer auf mich anzuschwulen",
             "Hitler ist in Wirklichkeit ein 12 jaehriges Maedchen",
-            "(Während wir auf dem Sofa liegen und ne Serie gucken.)\n"
+            "(Waehrend wir auf dem Sofa liegen und ne Serie gucken.)\n"
                     + "Nimm Mal deine Hand aus der Hose Camo",
-            "ääää ää ääää äää",
+            "aeaeaeae aeae aeaeaeae aeaeae",
             //150
             "Ich will das Leon mich weckt.",
             "Ich will dich Mal umziehen sehen (zu Drache)",
@@ -291,12 +291,15 @@ public class dcZitat{
             //155
             "Handy oder Penis!!! ",
             "was heisst subben",
-            "Ja unterstütz ich Juden sind scheiße",
+            "Ja unterstuetz ich Juden sind scheisse",
             "Ich habe auch noch so 6 Spiele die ich upgraden muss",
             "Hanna komm schneller vom Duschen",
             //160
-            "In 5 Hälften Teilen ",
-            "Wäre es Elise wäre es hier nicht wegen dem Schnee weiß",
+            "In 5 Haelften Teilen ",
+            "Waere es Elise waere es hier nicht wegen dem Schnee weiss",
+            "Ich goenne mir von meinen Homies",
+            "Die ist eigentlich ganz hübsch (Ein my little pony Bild...)",  //bearbeiten: maybe kann man hier das Bild reinmachen
+
 
     };
 
@@ -494,6 +497,8 @@ public class dcZitat{
             "Camo",
             //160
             "Nullkisir",
+            "Alice",
+            "Alice",
             "Alice",
 
     };

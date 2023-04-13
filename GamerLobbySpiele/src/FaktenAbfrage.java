@@ -470,6 +470,36 @@ public class FaktenAbfrage {
             "Wer war 2021 Weltfussballer des Jahres?",
             "Wer war 2022 Weltfussballer des Jahres?",
             //390
+            "Wer war 2021/2022 MVP in der NBA?",
+            "Wer war 2020/2021 MVP in der NBA?",
+            "Wer war 2019/2020 MVP in der NBA?",
+            "Wer war 2018/2019 MVP in der NBA?",
+            "Wer war 2017/2018 MVP in der NBA?",
+            //395
+            "Wer war 2016/2017 MVP in der NBA?",
+            "Wer war 2015/2016 MVP in der NBA?",
+            "Wer war 2014/2015 MVP in der NBA?",
+            "Wer war 2013/2014 MVP in der NBA?",
+            "Wer war 2012/2013 MVP in der NBA?",
+            //400
+            "Wer war 2011/2012 MVP in der NBA?",
+            "Wer war 2010/2011 MVP in der NBA?",
+            "Wer war 2009/2010 MVP in der NBA?",
+            "Wer war 2008/2009 MVP in der NBA?",
+            "Wer war 2007/2008 MVP in der NBA?",
+            //405
+            "Wer war 2006/2007 MVP in der NBA?",
+            "Wer war 2005/2006 MVP in der NBA?",
+            "Wer war 2004/2005 MVP in der NBA?",
+            "Wer war 2003/2004 MVP in der NBA?",
+            "Wer war 2002/2003 MVP in der NBA?",
+            //410
+            "Wer war 2001/2002 MVP in der NBA?",
+            "Wer war 2000/2001 MVP in der NBA?",
+            "Wer war 1999/2000 MVP in der NBA?",
+            "Wer war 1998/1999 MVP in der NBA?",
+            "Wer war 1997/1998 MVP in der NBA?",
+            //415
     };
 
     String[] faktenAntwortMoeglichkeiten = new String[]	{
@@ -941,7 +971,36 @@ public class FaktenAbfrage {
             "Christiano Ronaldo | Lionel Messi | Ronaldinho | Robert Lewandowski | Fabio Cannavaro",
             "Christiano Ronaldo | Lionel Messi | Kaka | Marco van Basten | Ronaldo",
             //390
-
+            "Christiano Ronaldo | Lionel Messi | Nikola Jokic | Luka Doncic | Drache Himself",
+            "Nikola Jokic | Lebroon James | Stephen Curry | Michael Jordan | Eminem",
+            "Nikola Jokic | Giannis Antetokounmpo | Luka Doncic | Lebroon James | The Professor",
+            "Nikola Jokic | Giannis Antetokounmpo | Luka Doncic | Lebroon James | James Harden",
+            "Nikola Jokic | Giannis Antetokounmpo | Luka Doncic | Lebroon James | James Harden",
+            //395
+            "Russell Westbrook | Stephen Curry | Nikola Jokic | Luka Doncic | Jru Holiday",
+            "Stephen Curry | Lebroon James | Stephen Curry | Michael Jordan | Eminem",
+            "Nikola Jokic | Giannis Antetokounmpo | Luka Doncic | Lebroon James | Stephen Curry",
+            "Kevin Durant | Giannis Antetokounmpo | Luka Doncic | Lebroon James | James Harden",
+            "Nikola Jokic | Giannis Antetokounmpo | LeBron James | Kobe Bryant | James Harden",
+            //400
+            "Nikola Jokic | Giannis Antetokounmpo | LeBron James | Dirk Nowitzki | James Harden",
+            "Stephen Curry | Lebroon James | Stephen Curry | Michael Jordan | Derrick Rose",
+            "Nikola Jokic | Giannis Antetokounmpo | Luka Doncic | Lebroon James | Stephen Curry",
+            "Kevin Durant | Giannis Antetokounmpo | Luka Doncic | Lebroon James | James Harden",
+            "Nikola Jokic | Giannis Antetokounmpo | LeBron James | Kobe Bryant | James Harden",
+            //405
+            "Nikola Jokic | Giannis Antetokounmpo | LeBron James | Dirk Nowitzki | James Harden",
+            "Steve Nash | Lebroon James | Stephen Curry | Michael Jordan | Derrick Rose",
+            "Steve Nash | Giannis Antetokounmpo | Luka Doncic | Lebroon James | Stephen Curry",
+            "Kevin Durant | Giannis Antetokounmpo | Kevin Garnett | Lebroon James | James Harden",
+            "Nikola Jokic | Tim Duncan | LeBron James | Kobe Bryant | James Harden",
+            //410
+            "Nikola Jokic | Giannis Antetokounmpo | LeBron James | Dirk Nowitzki | Tim Duncan",
+            "Steve Nash | Lebroon James | Allen Iverson | Michael Jordan | Derrick Rose",
+            "Steve Nash | Giannis Antetokounmpo | Shaquille O’Neal | Lebroon James | Stephen Curry",
+            "Kevin Durant | Giannis Antetokounmpo | Kevin Garnett | Karl Malone | James Harden",
+            "Nikola Jokic | Tim Duncan | LeBron James | Kobe Bryant | Michael Jordan",
+            //415
 
     };
 
@@ -1414,5 +1473,35 @@ public class FaktenAbfrage {
             "Robert Lewandowski",
             "Lionel Messi",
             //390
+            "Nikola Jokic",
+            "Nikola Jokic",
+            "Giannis Antetokounmpo",
+            "Giannis Antetokounmpo",
+            "James Harden",
+            //395
+            "Russell Westbrook",
+            "Stephen Curry",
+            "Stephen Curry",
+            "Kevin Durant",
+            "LeBron James",
+            //400
+            "LeBron James",
+            "Derrick Rose",
+            "LeBron James",
+            "LeBron James",
+            "Kobe Bryant",
+            //405
+            "Dirk Nowitzki",
+            "Steve Nash",
+            "Steve Nash",
+            "Kevin Garnett",
+            "Tim Duncan",
+            //410
+            "Tim Duncan",
+            "Allen Iverson",
+            "Shaquille O’Neal",
+            "Karl Malone",
+            "Michael Jordan",
+
     };
 }

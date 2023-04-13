@@ -431,8 +431,45 @@ public class FaktenAbfrage {
             "Wie viele Oscars gewann der Film Titanic",
             "Wann wurde Queen Elisabeth II. zur Koenigin gekroent",
             "Aus wie vielen Einzelknochen besteht eine menschliche Hand",
-
-
+            "Wer war 1991 Weltfussballer des Jahres?",
+            "Wer war 1992 Weltfussballer des Jahres?",
+            //360
+            "Wer war 1993 Weltfussballer des Jahres?",
+            "Wer war 1994 Weltfussballer des Jahres?",
+            "Wer war 1995 Weltfussballer des Jahres?",
+            "Wer war 1996 Weltfussballer des Jahres?",
+            "Wer war 1997 Weltfussballer des Jahres?",
+            //365
+            "Wer war 1998 Weltfussballer des Jahres?",
+            "Wer war 1999 Weltfussballer des Jahres?",
+            "Wer war 2000 Weltfussballer des Jahres?",
+            "Wer war 2001 Weltfussballer des Jahres?",
+            "Wer war 2002 Weltfussballer des Jahres?",
+            //370
+            "Wer war 2003 Weltfussballer des Jahres?",
+            "Wer war 2004 Weltfussballer des Jahres?",
+            "Wer war 2005 Weltfussballer des Jahres?",
+            "Wer war 2006 Weltfussballer des Jahres?",
+            "Wer war 2007 Weltfussballer des Jahres?",
+            //375
+            "Wer war 2008 Weltfussballer des Jahres?",
+            "Wer war 2009 Weltfussballer des Jahres?",
+            "Wer war 2010 Weltfussballer des Jahres?",
+            "Wer war 2011 Weltfussballer des Jahres?",
+            "Wer war 2012 Weltfussballer des Jahres?",
+            //380
+            "Wer war 2013 Weltfussballer des Jahres?",
+            "Wer war 2014 Weltfussballer des Jahres?",
+            "Wer war 2015 Weltfussballer des Jahres?",
+            "Wer war 2016 Weltfussballer des Jahres?",
+            "Wer war 2017 Weltfussballer des Jahres?",
+            //385
+            "Wer war 2018 Weltfussballer des Jahres?",
+            "Wer war 2019 Weltfussballer des Jahres?",
+            "Wer war 2020 Weltfussballer des Jahres?",
+            "Wer war 2021 Weltfussballer des Jahres?",
+            "Wer war 2022 Weltfussballer des Jahres?",
+            //390
     };
 
     String[] faktenAntwortMoeglichkeiten = new String[]	{
@@ -865,6 +902,46 @@ public class FaktenAbfrage {
             "16 | 9 | 11 | 13 | 14",
             "1947 | 1957 | 1949 | gar nicht | 1953",
             "16 | 27 | 19 | 35 | 57",
+            "Christiano Ronaldo | Lionel Messi | Lothar Matthaeus | Marco van Basten | George Weah",
+            "Christiano Ronaldo | Lionel Messi | Lothar Matthaeus | Marco van Basten | George Weah",
+            //360
+            "Christiano Ronaldo | Lionel Messi | Roberto Baggio | Marco van Basten | George Weah",
+            "Christiano Ronaldo | Lionel Messi | Lothar Matthaeus | Marco van Basten | Romario",
+            "Christiano Ronaldo | Lionel Messi | Lothar Matthaeus | Ronaldo | George Weah",
+            "Ronaldo | Lionel Messi | Lothar Matthaeus | Marco van Basten | George Weah",
+            "Christiano Ronaldo | Lionel Messi | Ronaldo | Zinedine Zidane | George Weah",
+            //365
+            "Rivaldo | Lionel Messi | Roberto Baggio | Oliver Kahn | Zinedine Zidane",
+            "Rivaldo | Lionel Messi | Roberto Baggio | Oliver Kahn | Zinedine Zidane",
+            "Christiano Ronaldo | Lionel Messi | Zinedine Zidane | Luis Figo | Romario",
+            "Christiano Ronaldo | Lionel Messi | Luis Figo | Ronaldo | George Weah",
+            "Ronaldo | Lionel Messi | Lothar Matthaeus | Marco van Basten | Ronaldo",
+            //370
+            "Christiano Ronaldo | Lionel Messi | Ronaldo | Zinedine Zidane | George Weah",
+            "Rivaldo | Lionel Messi | Ronaldinho | Oliver Kahn | Fabio Cannavaro",
+            "Christiano Ronaldo | Lionel Messi | Zinedine Zidane | Ronaldinho | Romario",
+            "Christiano Ronaldo | Lionel Messi | Ronaldinho | Ronaldo | Fabio Cannavaro",
+            "Ronaldo | Lionel Messi | Kaka | Marco van Basten | Ronaldo",
+            //375
+            "Christiano Ronaldo | Kaka | Ronaldo | Zinedine Zidane | George Weah",
+            "Rivaldo | Lionel Messi | Ronaldinho | Oliver Kahn | Fabio Cannavaro",
+            "Christiano Ronaldo | Lionel Messi | Zinedine Zidane | Ronaldinho | Romario",
+            "Christiano Ronaldo | Lionel Messi | Ronaldinho | Ronaldo | Fabio Cannavaro",
+            "Ronaldo | Lionel Messi | Kaka | Marco van Basten | Ronaldo",
+            //380
+            "Christiano Ronaldo | Kaka | Ronaldo | Zinedine Zidane | George Weah",
+            "Christiano Ronaldo | Lionel Messi | Ronaldinho | Oliver Kahn | Fabio Cannavaro",
+            "Christiano Ronaldo | Lionel Messi | Zinedine Zidane | Ronaldinho | Romario",
+            "Christiano Ronaldo | Lionel Messi | Ronaldinho | Ronaldo | Fabio Cannavaro",
+            "Christiano Ronaldo | Lionel Messi | Kaka | Marco van Basten | Ronaldo",
+            //385
+            "Christiano Ronaldo | Kaka | Ronaldo | Zinedine Zidane | Luka Modric",
+            "Christiano Ronaldo | Lionel Messi | Ronaldinho | Oliver Kahn | Fabio Cannavaro",
+            "Christiano Ronaldo | Lionel Messi | Zinedine Zidane | Ronaldinho | Robert Lewandowski",
+            "Christiano Ronaldo | Lionel Messi | Ronaldinho | Robert Lewandowski | Fabio Cannavaro",
+            "Christiano Ronaldo | Lionel Messi | Kaka | Marco van Basten | Ronaldo",
+            //390
+
 
     };
 
@@ -1298,10 +1375,44 @@ public class FaktenAbfrage {
             "11",
             "1953",
             "27",
-
+            "Lothar Matthaeus",
+            "Marco van Basten",
             //360
-
+            "Roberto Baggio",
+            "Romario",
+            "George Weah",
+            "Ronaldo",
+            "Ronaldo",
             //365
-
+            "Zinedine Zidane",
+            "Rivaldo",
+            "Zinedine Zidane",
+            "Luis Figo",
+            "Ronaldo",
+            //370
+            "Zinedine Zidane",
+            "Ronaldinho",
+            "Ronaldinho",
+            "Fabio Cannavaro",
+            "Kaka",
+            //375
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Lionel Messi",
+            "Lionel Messi",
+            "Lionel Messi",
+            //380
+            "Cristiano Ronaldo",
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Cristiano Ronaldo",
+            //385
+            "Luka Modric",
+            "Lionel Messi",
+            "Robert Lewandowski",
+            "Robert Lewandowski",
+            "Lionel Messi",
+            //390
     };
 }

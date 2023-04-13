@@ -299,7 +299,7 @@ public class dcZitat{
             "Waere es Elise waere es hier nicht wegen dem Schnee weiss",
             "Ich goenne mir von meinen Homies",
             "Die ist eigentlich ganz hübsch (Ein my little pony Bild...)",  //bearbeiten: maybe kann man hier das Bild reinmachen
-w
+
 
     };
 

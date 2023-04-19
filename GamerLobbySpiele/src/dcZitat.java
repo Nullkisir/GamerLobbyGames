@@ -298,8 +298,14 @@ public class dcZitat{
             "In 5 Haelften Teilen ",
             "Waere es Elise waere es hier nicht wegen dem Schnee weiss",
             "Ich goenne mir von meinen Homies",
-            "Die ist eigentlich ganz hübsch (Ein my little pony Bild...)",  //bearbeiten: maybe kann man hier das Bild reinmachen
-
+            "Die ist eigentlich ganz huebsch (Ein my little pony Bild...)",  //bearbeiten: maybe kann man hier das Bild reinmachen
+            "Ich schlucke haerter als an Camos Zückerli",
+            //165
+            "Du faehrst zu camo, um ihn zu ueberzeugen, dass er nicht schwul ist",
+            "2 Personen:\r\n" +
+                    "Person1. How are you? \n" +
+                    "Person2. My name is Kevin",
+            "Ich will Beweisvideo wie du dich selbst fickst",
 
     };
 
@@ -499,6 +505,11 @@ public class dcZitat{
             "Nullkisir",
             "Alice",
             "Alice",
+            "Alice",
+            "Namefall",
+            //165
+            "Nullkisir",
+            "Random und Nullkisir",
             "Alice",
 
     };

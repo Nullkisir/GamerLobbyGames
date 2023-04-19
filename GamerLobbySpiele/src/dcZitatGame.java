@@ -15,7 +15,7 @@ public class dcZitatGame {
 
         String moeglicheZitierer = "\nWenn das Zitat von 2. Leuten stammt dann verbindet diese mit einem"
                 + " ^und^ \nDie Reihenfolge der Personen ist in diesem Fall sehr wichtig"
-                + " \nAlice \nDrache \nNullkisir \nCamo \nNamefall \nLeon";
+                + " \nAlice \nDrache \nNullkisir \nCamo \nNamefall \nLeon \nRandom";
 
         int min = 0;
         int max = zitate.length-1;

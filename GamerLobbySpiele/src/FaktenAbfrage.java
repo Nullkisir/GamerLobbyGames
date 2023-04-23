@@ -500,6 +500,20 @@ public class FaktenAbfrage {
             "Wer war 1998/1999 MVP in der NBA?",
             "Wer war 1997/1998 MVP in der NBA?",
             //415
+            "Wie hoch ist der Burj Khalifa",
+            "Wie hoch ist der Shanghai Tower",
+            "Wie hoch ist der Lotte World Tower",
+            "Wie hoch ist der China Zun Tower",
+            "Wie hoch ist der Taipei 101",
+            //420
+            "Was ist die beliebteste Sportart",
+            "Was ist die zweit beliebteste Sportart",
+            "Was ist die dritt beliebteste Sportart",
+            "Was ist die viert beliebteste Sportart",
+            "Was ist die fuenft beliebteste Sportart",
+            //425
+            "Wie viel Geld hat Harrison Ford fuer den ersten Star wars Film bekommen",
+
     };
 
     String[] faktenAntwortMoeglichkeiten = new String[]	{
@@ -1001,7 +1015,19 @@ public class FaktenAbfrage {
             "Kevin Durant | Giannis Antetokounmpo | Kevin Garnett | Karl Malone | James Harden",
             "Nikola Jokic | Tim Duncan | LeBron James | Kobe Bryant | Michael Jordan",
             //415
-
+            "828m | 800m | 743m | 903m | 839m | 807m",
+            "627m | 632m | 698m | 646m | 666m | 639m",
+            "111m | 222m | 333m | 444m | 555m | 666m",
+            "543m | 548m | 508m | 528m | 518m | 538m",
+            "828m | 800m | 743m | 903m | 839m | 807m",
+            //420
+            "Fussball | Biathlon/Skispringen | Leichtathletik | Handball | Motorsport",
+            "Fussball | Biathlon/Skispringen | Leichtathletik | Handball | Motorsport",
+            "Fussball | Biathlon/Skispringen | Leichtathletik | Handball | Motorsport",
+            "Fussball | Biathlon/Skispringen | Leichtathletik | Handball | Motorsport",
+            "Fussball | Biathlon/Skispringen | Leichtathletik | Handball | Motorsport",
+            //425
+            "10.000 US Dollar | 100.000 US Dollar | 10.000.000 US Dollar | 1.000 US Dollar | 1.000.000 US Dollar",
     };
 
     String[] faktenAntworten = new String[]	{
@@ -1502,6 +1528,21 @@ public class FaktenAbfrage {
             "Shaquille O’Neal",
             "Karl Malone",
             "Michael Jordan",
+            //415
+            "828m",
+            "632m",
+            "555m",
+            "528m",
+            "508m",
+            //420
+            "Fussball",
+            "Biathlon/Skispringen",
+            "Leichtathletik",
+            "Handball",
+            "Motorsport",
+            //425
+            "10.000 US Dollar",
+
 
     };
 }

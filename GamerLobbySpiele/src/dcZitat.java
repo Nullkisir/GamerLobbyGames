@@ -306,6 +306,11 @@ public class dcZitat{
                     "Person1. How are you? \n" +
                     "Person2. My name is Kevin",
             "Ich will Beweisvideo wie du dich selbst fickst",
+            "Dann steigt das auf so wie eine Rakete (redet über seinen Schwanz)",
+            "Wenn ich so eine 1 Jaehrige Schwester haette",
+            //170
+            "Ich will ein Kind haben",
+            "Geh weg, ich schlafe jetzt mit dem Baby!",
 
     };
 
@@ -511,7 +516,13 @@ public class dcZitat{
             "Nullkisir",
             "Random und Nullkisir",
             "Alice",
+            "Nullkisir",
+            "Nullkisir",
+            //170
+            "Alice",
+            "Alice",
 
     };
 
+    //Stand 23.04.2023
 }

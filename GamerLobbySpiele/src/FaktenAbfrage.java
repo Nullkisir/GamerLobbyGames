@@ -513,6 +513,18 @@ public class FaktenAbfrage {
             "Was ist die fuenft beliebteste Sportart",
             //425
             "Wie viel Geld hat Harrison Ford fuer den ersten Star wars Film bekommen",
+            "In welcher Stadt steht das hoechste Kirchengebäude Deutschlands",
+            "Als Urgot noch unter Noxus diente, was war da sein Job",
+            "Fuer wes haelt Jhin Mord",
+            "Was ist Iverns zweiter Name",
+            //430
+            "Was hat Amumu gemacht bevor er eine Mumie wurde",
+            "Welches Team gewann das erste mal die lol worlds",
+            "Es ist/war mit jedem Champ aus lol moeglich den Drachen mit lvl. eins zu machen (solo)",
+            "In welchem Land wird esprot als Sport anerkannt",
+            "Aus welchem Spiel nahm sich Riot die Inspiration fuer Nautilus",
+            //435
+            "An welchem Tag im Monat wurde lol veroeffentlicht",
 
     };
 
@@ -1028,6 +1040,19 @@ public class FaktenAbfrage {
             "Fussball | Biathlon/Skispringen | Leichtathletik | Handball | Motorsport",
             //425
             "10.000 US Dollar | 100.000 US Dollar | 10.000.000 US Dollar | 1.000 US Dollar | 1.000.000 US Dollar",
+            "Koeln | Muenchen | Berlin | Stalingrad | Dortmund | Nuernberg | Hamburg | Ulm | Bielefeld",
+            "Schlachter | Soldat | Scharfrichter | General | Folterknecht",
+            "Mord | Kunst | eine Symphonie | bedeutungslos | das schoenste der Welt",
+            "der Hain | hat keinen | Brombeerbart | der Hüter | Wurzelgewaechs",
+            //430
+            "er war Prinz | er war schon immer eine Mumie | weinen | weiss man nicht genau | er ist zu Daniel gefahren",
+            "T1 | Samsung blue | Fnatic | G2| Istanbul Wildcats | RNG | Nuernberger Uni Team",
+            "Stimmt | Stimmt nicht | Stimmt aber nur mit cheats | Stimmt aber nur in Season 2 am 1. April",
+            "Deutschland | Kanada | Polen | USA",
+            "Bioshock | Elder Scrolls 1 | DOOM | Halo | WOW",
+            //435
+            "3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 44",
+
     };
 
     String[] faktenAntworten = new String[]	{
@@ -1542,7 +1567,18 @@ public class FaktenAbfrage {
             "Motorsport",
             //425
             "10.000 US Dollar",
-
+            "Ulm",
+            "Scharfrichter",
+            "Kunst",
+            "Brombeerbart",
+            //430
+            "weiss man nicht genau",
+            "Fnatic",
+            "Stimmt",
+            "USA",
+            "Bioshock",
+            //435
+            "27",
 
     };
 }

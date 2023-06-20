@@ -25,3 +25,7 @@ public class Game {
         }
     }
 }
+
+/* beim Schaetzenspiel ist irgendein Fehler, manchmal muss er den Code verlassen (evtl. wenn man Kommazahlen eingibt)
+könnte aber auch an was ganz anderem liegen...
+ */

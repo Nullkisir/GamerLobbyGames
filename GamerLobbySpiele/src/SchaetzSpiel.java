@@ -43,7 +43,7 @@ public class SchaetzSpiel {
         //ein Boolean Array erstellt damit er später in der for Schleife verwendet werden kann.
         boolean[] testenSpieler = new boolean[spielerAnzahl];
 
-        System.out.println("\n\n\n\n\n\nNun beginnt das Spiel. \nviel Spass und Erfolg!\n\n\n\n");
+        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNun beginnt das Spiel. \nviel Spass und Erfolg!\n\n");
 
 
         for (int i = 1; i <= anzahlSchaetzfragen; i++) {

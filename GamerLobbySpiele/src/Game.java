@@ -28,4 +28,6 @@ public class Game {
 
 /* beim Schaetzenspiel ist irgendein Fehler, manchmal muss er den Code verlassen (evtl. wenn man Kommazahlen eingibt)
 könnte aber auch an was ganz anderem liegen...
+Es sind sehr wahrscheinlich die Kommazahlen maybe muss man nen anderen Scanner fuer die verwenden....
+@Camo @Drache @Alice
  */

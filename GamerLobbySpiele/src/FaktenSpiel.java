@@ -81,9 +81,6 @@ public class FaktenSpiel {
             }
         }
 
-        /////////////////////////////////////////////////////////////////////////////////////////////////////////
-        //Warum wird dieser Bereich nicht durchgefuert?
-        /////////////////////////////////////////////////////////////////////////////////////////////////////////
         //Der "Endbildschirm" mit den Punkten der Spieler wird ausgegeben
         System.out.println("\nDas Spiel ist vorbei");
 
@@ -95,8 +92,6 @@ public class FaktenSpiel {
 
         for(int i = 0; i<spielerAnzahl; i++){
             System.out.println(spielerNamen[i] + " hat " + punkteSpieler[i] + " Punkte.");
-        ///////////////////////////////////////////////////////////////////////////////////////////////////////////
-        //Bis hier......................................................................................../////////
         }
     }
 

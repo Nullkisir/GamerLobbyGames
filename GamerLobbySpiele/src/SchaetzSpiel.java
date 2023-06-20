@@ -1,3 +1,10 @@
+/*
+Was noch gemacht werden muss:
+1. Das sortieren klappt iwie nicht, evtl. ist iwas bei den sortier Methoden oder einer der Stellen wo man die verwendet falsch.
+2. Es klappt nicht, dass die Reihenfolge in jeder Runde "ausgelost" wird, muss sich nochmal einer angucken
+3.
+ */
+
 import java.util.Scanner;
 public class SchaetzSpiel {
 
@@ -49,8 +56,8 @@ public class SchaetzSpiel {
         for (int i = 1; i <= anzahlSchaetzfragen; i++) {
             int randomNumber = (int) (Math.random() * ((anzahlSchaetzfragen - 1 - 0) + 1)) + 0;
 
-            //Wenn das Zitat noch nicht dran gekommen ist dann geht er in die if Verzweigung sonst
-            //wird unten einer vom i abgezogen, damit er ein neues Zitat raussucht
+            //Wenn die chaetzfrage noch nicht dran gekommen ist dann geht er in die if Verzweigung sonst
+            //wird unten einer vom i abgezogen, damit er eine neue Frage raussucht
             if (testen[randomNumber] == false) {
                 testen[randomNumber] = true;
                 System.out.println(schaetzenFrage[randomNumber] + "\n");
@@ -103,6 +110,15 @@ public class SchaetzSpiel {
                     i--;
                 }
             }
+        }
+        //Endergebnis wird in den Methoden sortiert
+        int[] temp = punkte;
+        spielerNamen = sortierenNamen(temp, spielerNamen, spielerAnzahl);
+        punkte = sortierenPunkte(temp, spielerNamen, spielerAnzahl);
+
+
+        for(int i = 0; i<spielerAnzahl; i++){
+            System.out.println(spielerNamen[i] + " hat " + punkte[i] + " Punkte.");
         }
     }
         public static String[] sortierenNamen ( int[] punkteSpieler, String[] spielerNamen,int spielerAnzahl){

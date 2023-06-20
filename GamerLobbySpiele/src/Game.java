@@ -1,3 +1,9 @@
+/*
+Was noch gemacht werden muss:
+1. Ein Modus wo alle Spiele kombiniert werden...
+2. Das hier in einen Discord Bot integrieren
+3. ?? @camo @drache @alice habt ihr noch was ??
+ */
 import java.util.Scanner;
 public class Game {
     public static void main(String[] args) {
@@ -5,7 +11,7 @@ public class Game {
 
         //Spielart bestimmen
         System.out.println("Welches Spiel wollt ihr spielen?");
-        System.out.println("1: Discord Zitat; 2: Lol Zitat; 3: Fakten Spiel; 4: Schaetzfragen(der Endscreen geht noch nicht) \n");
+        System.out.println("1: Discord Zitat; 2: Lol Zitat; 3: Fakten Spiel; 4: Schaetzfragen(Punktezuornen/Personen richtig sortieren geht noch nicht) \n");
 
         int Spielart = scan.nextInt();
 

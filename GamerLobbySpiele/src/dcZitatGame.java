@@ -15,7 +15,7 @@ public class dcZitatGame {
 
         String moeglicheZitierer = "\nWenn das Zitat von 2. Leuten stammt dann verbindet diese mit einem"
                 + " ^und^ \nDie Reihenfolge der Personen ist in diesem Fall sehr wichtig"
-                + " \nAlice \nDrache \nNullkisir \nCamo \nNamefall \nLeon \nRandom";
+                + " \nAlice \nDrache \nNullkisir \nCamo \nNamefall \nLeon \nRandom \nHitler";
 
         int min = 0;
         int max = zitate.length-1;
@@ -73,17 +73,38 @@ public class dcZitatGame {
 
                 //Alle 5 Runden wird ein Zwischenstand ausgegeben
                 if(i%5==0 && i != 0 && i+1 != anzahlZitateDieWirNehmen){
-                    int[] tempInForSchleife = punkteSpieler;
-                    spielerNamen = sortierenNamen(tempInForSchleife, spielerNamen, spielerAnzahl);
-                    punkteSpieler = sortierenPunkte(punkteSpieler, spielerNamen, spielerAnzahl);
+                   /* String[] tempInForSchleife = spielerNamen;
+                    spielerNamen = sortierenNamen(punkteSpieler, spielerNamen, spielerAnzahl);
+                    punkteSpieler = sortierenPunkte(punkteSpieler, tempInForSchleife, spielerAnzahl);   */
 
+                    //Das ist nur ein Platzhalter zum sortieren der Namen entsprechend der Punkte
+                    for(int q = 0; q<spielerAnzahl-1; q++){
+                        for(int e = q+1; e<spielerAnzahl; e++){
+
+                            if(punkteSpieler[q]<punkteSpieler[e]){
+                                String temp2 = spielerNamen[q];
+                                spielerNamen[q] = spielerNamen[e];
+                                spielerNamen[e] = temp2;
+                                int temp3 = punkteSpieler[q];
+                                punkteSpieler[q] = punkteSpieler[e];
+                                punkteSpieler[e] = temp3;
+
+                            }
+                        }
+                    }
 
                     for(int j = 0; j<spielerAnzahl; j++){
+                        if(j==0)  {
+                            System.out.println("\n\n");
+                        }
                         System.out.println(spielerNamen[j] + " hat " + punkteSpieler[j] + " Punkte.");
+                        if(j==spielerAnzahl-1)  {
+                            System.out.println("\n\n\n->->->->-> Und weiter geht das Spiel }->->->->->\n\n");
+                        }
                     }
 
                 }
-                //Ein weiterer Durchgang wenn das Zitat schon verwendet wurde
+                //Ein weiterer Durchgang, wenn das Zitat schon verwendet wurde
             }
             else{
                 i--;
@@ -94,9 +115,25 @@ public class dcZitatGame {
         System.out.println("\nDas Spiel ist vorbei");
 
         //Endergebnis wird in den Methoden sortiert
-        int[] temp = punkteSpieler;
+        /*int[] temp = punkteSpieler;
         punkteSpieler = sortierenPunkte(punkteSpieler, spielerNamen, spielerAnzahl);
-        spielerNamen = sortierenNamen(temp, spielerNamen, spielerAnzahl);
+        spielerNamen = sortierenNamen(temp, spielerNamen, spielerAnzahl);   */
+
+        //Das ist nur ein Platzhalter zum sortieren der Namen entsprechend der Punkte
+        for(int q = 0; q<spielerAnzahl-1; q++){
+            for(int e = q+1; e<spielerAnzahl; e++){
+
+                if(punkteSpieler[q]<punkteSpieler[e]){
+                    String temp2 = spielerNamen[q];
+                    spielerNamen[q] = spielerNamen[e];
+                    spielerNamen[e] = temp2;
+                    int temp3 = punkteSpieler[q];
+                    punkteSpieler[q] = punkteSpieler[e];
+                    punkteSpieler[e] = temp3;
+
+                }
+            }
+        }
 
         for(int i = 0; i<spielerAnzahl; i++){
             System.out.println(spielerNamen[i] + " hat " + punkteSpieler[i] + " Punkte.");
@@ -104,7 +141,7 @@ public class dcZitatGame {
         }
     }
 
-    public static String[] sortierenNamen(int[] punkteSpieler, String[] spielerNamen, int spielerAnzahl){
+    /*public static String[] sortierenNamen(int[] punkteSpieler, String[] spielerNamen, int spielerAnzahl){
         //Endergebnis wird Sortiert
         for(int i = 0; i<spielerAnzahl-1; i++){
             for(int j = i+1; j<spielerAnzahl; j++){
@@ -113,6 +150,7 @@ public class dcZitatGame {
                     String temp2 = spielerNamen[i];
                     spielerNamen[i] = spielerNamen[j];
                     spielerNamen[j] = temp2;
+
                 }
             }
         }
@@ -134,5 +172,5 @@ public class dcZitatGame {
         }
 
         return punkteSpieler;
-    }
+    }*/
 }

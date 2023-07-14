@@ -90,7 +90,7 @@ public class dcZitat{
             "Was ist eine Muskatnuss",
             "Ich werde nicht Splitpushen ich werde Splitwinnen ... und wenn ich da 0 30 rausgeh mir egal",
             "Du hast meinen Kopf von hinten und vorne gefickt",
-            "Immer wenn ich Drache hÃ¶ere, moechte ich mich umbringen",
+            "Immer wenn ich Drache hoere, moechte ich mich umbringen",
             //50
             "Schau mal dein Ding an (zu Drache) wo ist das haesslicher als meins",
             "Du bist der maennlichster Mann in Europa (zu Camo)",
@@ -311,7 +311,58 @@ public class dcZitat{
             //170
             "Ich will ein Kind haben",
             "Geh weg, ich schlafe jetzt mit dem Baby!",
-
+            "das teurer, aber halt auch teuer",
+            "2 Personen:\r\n" +
+                    "Person1. Bin ich in ihn eingedrungen? \n" +
+                    "Person2. Ja du bist ganz tief in ihn eingedrungen!",
+            "Die gehoehren in die Gaslager nach Deutschland",
+            //175
+            "2 Personen:\r\n" +
+                    "Person1. Ich mag keine Bananen. \n" +
+                    "Person2. Was bist du schwul?",
+            "Dein Niesen hat sich wie Deutschland angehoert.",
+            "Wir sind ja sogar Freunde! Ich mag Kondome.",
+            "Ich weiss gar nicht wo meine Kamera ist",
+            "Alyoni, das ist unser Baby!",
+            //180
+            "Nimm mich einfach, Okisir!",
+            "Camo als Villager, wie er von einer Katze gefickt wird",
+            "2 Personen:\r\n" +
+                    "Person1. Du kriegst ne Flagge \n" +
+                    "Person2. Achso, ich gehe Yordle",
+            "Alice ist der groesste Supporter, der bietet jedem seinen Arsch an",
+            "Balkan hat maybe Wueste",
+            //185
+            "Ich uebernehme mich so hart mit der Groesse, holy shit.",
+            "Ich werde alle Loecher erkunden",
+            "Ich haette gerne Spass mit Okisir",
+            "Ich wuesste niemanden, der gluecklich ist und kein Wixxer.",
+            "Ich hab so getrusted dass Alice gleich kommt. Und er IST gekommen!",
+            //190
+            "Wir pflanzen dir einfach eine Prostata ein",
+            "Das ist eine innige Beziehung mit meinem Pferd. Es braucht das!",
+            "2 Personen:\r\n" +
+                    "Person1. Weisst du wo die Bombe liegt? \n" +
+                    "Person2. Nein \n" +
+                    "Person1. Schade",
+            "Die Ukraine gehoert auch zu Russland",
+            "Das ist ein Insekt, Insekten sind keine Tiere",
+            //195
+            "Man muss einfach dem fetten typen an seinen Schwanz fassen",
+            "Ich bin so fett das ich als 3er Fort zaehle",
+            "2 Personen:\r\n" +
+                    "Person1. Ich lutsch dich aus \n" +
+                    "Person2. Was \n" +
+                    "Person1. egal egal",
+            "Wie nennt man das, wo die Hand rauskommt, so?",
+            "Du darfst mich soviel deepthroaten wie du willst",
+            //200
+            "Bist du Bernd das bellt?",
+            "Was fuer ein Glueck fuer die Regierenden, dass die Menschen nicht denken!",
+            "Ich tue nur, was die Kirche seit fuenfzehnhundert Jahren tut, allerdings gruendlicher.",
+            "Eine einzige geniale Idee ist mehr wert als 30 Jahre harte Bueroarbeit.",
+            "Die breite Masse ist blind und dumm und weiss nicht, was sie tut.",
+            //205
     };
 
     String[] wer = new String[] {
@@ -521,6 +572,46 @@ public class dcZitat{
             //170
             "Alice",
             "Alice",
+            "Alice",
+            "Drache und Leon",
+            "Nullkisir",
+            //175
+            "Drache und Leon",
+            "Namefall",
+            "Namefall",
+            "Drache",
+            "Nullkisir",
+            //180
+            "Drache",
+            "Namefall",
+            "Camo und Alice",
+            "Drache",
+            "Nullkisir",
+            //185
+            "Drache",
+            "Leon",
+            "Alice",
+            "Nullkisir",
+            "Drache",
+            //190
+            "Namefall",
+            "Drache",
+            "Namefall und Alice",
+            "Alice",
+            "Namefall",
+            //195
+            "Namefall",
+            "Alice",
+            "Alice und Drache",
+            "Drache",
+            "Drache",
+            //200
+            "Alice",
+            "Hitler",
+            "Hitler",
+            "Hitler",
+            "Hitler",
+            //205
 
     };
 

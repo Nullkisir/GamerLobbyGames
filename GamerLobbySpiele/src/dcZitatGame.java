@@ -13,17 +13,26 @@ public class dcZitatGame {
         String[] zitate = zitat.zitate;
         String[] wer = zitat.wer;
 
+        //Hier ist das was bei help weiter unten ausgegeben wird
         String moeglicheZitierer = "\nWenn das Zitat von 2. Leuten stammt dann verbindet diese mit einem"
                 + " ^und^ \nDie Reihenfolge der Personen ist in diesem Fall sehr wichtig"
                 + " \nAlice \nDrache \nNullkisir \nCamo \nNamefall \nLeon \nRandom \nHitler";
 
-        int min = 0;
-        int max = zitate.length-1;
-        boolean[] testen = new boolean[zitate.length];
-
         //Spieleranzahl wird fuer spaeter angegeben
         System.out.println("\nBitte tragt einmal die Spieleranzahl ein.");
         int spielerAnzahl = scan2.nextInt();
+
+        //Die Boolean sind dafür da um zu gucken, ob etwas schonmal dran gekommen ist
+        boolean[] testen = new boolean[zitate.length];
+        boolean[] testen2 = new boolean[spielerAnzahl];
+
+        //die Werte werden für das random Ausgeben der Zitate gebraucht
+        int min = 0;
+        int max = zitate.length-1;
+        int max2 = spielerAnzahl-1;
+
+        //Wird spaeter gebraucht
+        String zitatRaten = "";
 
         //Jeder Spieler bekommt im punkteSpieler Array eine Stelle mit 0 Punkten die spaeter erhoet wird
         int[] punkteSpieler = new int[spielerAnzahl];
@@ -55,20 +64,30 @@ public class dcZitatGame {
 
                 //Die Spieler muessen eingaben wer das Zitat wohl gesagt hat
                 for(int j = 1; j<=spielerAnzahl; j++){
-                    System.out.println("Was denkt " + spielerNamen[j-1] +  " von wem das Zitat ist?");
-                    System.out.println("Wenn ihr nicht mehr wisst, wer alles zur verfuegung steht, dann schreibt help");
-                    String zitatRaten = scan.nextLine();
-                    System.out.println("");
 
-                    //Wenn richtig geraten wurde dann bekommt der Spieler einen Punkt
-                    if(zitatRaten.equals(wer[randomNumber])){
-                        punkteSpieler[j-1] += 1;
+                    int randomNumber2 = (int)(Math.random() * ((max2 - min) + 1)) + min;
+
+                    if(testen2[randomNumber2] == false) {
+                        testen2[randomNumber2] = true;
+                        System.out.println("Was denkt " + spielerNamen[randomNumber2] + " von wem das Zitat ist?");
+                        System.out.println("Wenn ihr nicht mehr wisst, wer alles zur verfuegung steht, dann schreibt help");
+                        zitatRaten = scan.nextLine();
+                        System.out.println("");
+
+                        //Wenn richtig geraten wurde dann bekommt der Spieler einen Punkt
+                        if (zitatRaten.equals(wer[randomNumber])) {
+                            punkteSpieler[randomNumber2] += 1;
+                        }
+                    } else{
+                        j--;
                     }
-
                     if(zitatRaten.equals("help")){
                         System.out.println(moeglicheZitierer);
                         j--;
                     }
+                }
+                for(int j = 0; j<spielerAnzahl; j++)    {
+                    testen2[j] = false;
                 }
 
                 //Alle 5 Runden wird ein Zwischenstand ausgegeben

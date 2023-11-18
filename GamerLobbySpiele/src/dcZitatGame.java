@@ -83,9 +83,20 @@ public class dcZitatGame {
                     }
                     if(zitatRaten.equals("help")){
                         System.out.println(moeglicheZitierer);
-                        j--;
+                        System.out.println("Was denkt " + spielerNamen[randomNumber2] + " von wem das Zitat ist?");
+                        zitatRaten = scan.nextLine();
+                        System.out.println("");
+
+                        //Wenn richtig geraten wurde dann bekommt der Spieler einen Punkt
+                        if (zitatRaten.equals(wer[randomNumber])) {
+                            punkteSpieler[randomNumber2] += 1;
+                        }
+
                     }
                 }
+
+                System.out.println(wer[randomNumber] + " hat dies gesagt");
+
                 for(int j = 0; j<spielerAnzahl; j++)    {
                     testen2[j] = false;
                 }

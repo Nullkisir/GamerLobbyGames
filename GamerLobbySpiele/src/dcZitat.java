@@ -363,6 +363,182 @@ public class dcZitat{
             "Eine einzige geniale Idee ist mehr wert als 30 Jahre harte Bueroarbeit.",
             "Die breite Masse ist blind und dumm und weiss nicht, was sie tut.",
             //205
+            "Hanna meinte sie kommt",
+            "Wir müssen in dieses Loch kommen",
+            "2 Personen:\r\n" +
+                    "Person1. Du spührst wie deine Hand anfängt zu vibrieren \n" +
+                    "Person2. Werde ich davon auch feucht",
+            "Ich übe das (Blut squirten)",
+            "Squirten kennt man doch von Pokemon, ah ja davon kenne ich das",
+            //210
+            "Hört auf euch gegenseitig eure Grossaexte zu schlecken",
+            "Der Trank nimmt die Form eines Dildos an. Befüllt mit Saft.",
+            "Oh ist da noch eine Flasche mit Sperma",
+            "2 Personen:\r\n" +
+                    "Person1. Dein ganzer Koerper wird schwarz \n" +
+                    "Person2. Ich wollte gerade was sagen",
+            "Milch kommt aus Lushas Brust und tropft in den Mund des Zwerges",
+            //215
+            "Ne danke ich stehe nicht auf Milch.... Sperma ist so viel besser",
+            "Ah so eine schoene Portion Sperma, das war es wieder",
+            "gib mir auch Sperma zum schlucken, hallo, Warum denkt niemand an mich \n" +
+                    "Ich helfe euch auch damit die Flasche wieder voll zu machen",
+            "Ich misshandle deine Leiche und trete drauf herum (zu Drache)",
+            "Sowas ist doch immer nice (persoenlicher Sklave), ich halte jetzt meine Klappe",
+            //220
+            "ich meine ich sag ja nicht, dass ich mir das nicht angucken wuerde wenn die was haetten \n" +
+                    "(Es geht um einen Joko und Klaas gay porn",
+            "Boahhh ich glaube ich bekomme gerade Blaehungen",
+            "Ich sitze hier nackt vor meinem Computer",
+            "Leon ist Traaaaaaaaash",
+            "2 Personen:\r\n" +
+                    "Person1. Wie unguelige Form \n" +
+                    "Person2. Das denkt sich dein Penis auch",
+            //225
+            "Ich bin nur einmal Flugzeug gefahren",
+            "Ich wuerde so gerne mal einen Baum essen",
+            "Jetzt bin ich verwirrt, Bayern schreibt man doch mit J",
+            "Du verlaesst uns ((zu Drache)faengt unkontrolierbar an zu weinen)",
+            "Ich Digga gleich deinen Arsch voll",
+            //230
+            "2 Personen:\r\n" +
+                    "Person1. Eben hast du gesagt wir sollen alle sterben gehen \n" +
+                    "Person2. Nein! Nur zu dir!",
+            "Ich kann Draches Banane auch baendigen",
+            "2 Personen:\r\n" +
+                    "Person1. Zu viel Schwanz im Mund? \n" +
+                    "Person2. Eher zu wenig",
+            "Ich sage jetzt noch Bilanx ich bin OG",
+            "2 Personen:\r\n" +
+                    "Person1. Das Land ist danach gespalten \n" +
+                    "Person2. Wie dein Arschloch",
+            //235
+            "Ich Marie Johanna deine Mama",
+            "Ich glaube wir schlafen einfach mit dem Stein",
+            "Er bleibt mit mir im Bett, ich fessle ihn",
+            "Ich will den Stein mit ins Bett nehmen",
+            "Alice, bin ich auf dir geritten",
+            //240
+            "Um 14 Uhr 8 um 0 Uhr gehts los",
+            "Lol ist ein scheiss Spiel",
+            "Ich habe ne Kamera unter deinem Stuhl damit ich nur deinen Arsch sehe",
+            "2 Personen:\r\n" +
+                    "Person1. Was musst du mit deinem Arm fertilizen \n" +
+                    "Person2. Camo seinen Arsch \n" +
+                    "Aermchen rein Spender sein",
+            "Das Geld geht ja nicht verlieren",
+            //245
+            "Aber passt auf! In Mitte steht eine NEGEV",
+            "Ich Gargamel deine Schluempfe",
+            "Ja keine Ahnung, Easy",
+            "Habe mit 11 Jahren damit angefangen Pedophil belaestigt zu werden. \n" +
+                    "WTF mit 9?! Nein mit 11",
+            "Du bist nicht arm, nur weil du nicht reich bist",
+            //250
+            "My little Pony, guter Content eigentlich",
+            "Die NEGEV wurde gesust",
+            "Das ist normal so?? Mein Ding ist ja ein achtel mal so gross",
+            "Huh, Alligatoah ist doch ein Tier",
+            "Burger King heisst halt Burger King",
+            //255
+            "Ich sehe die Bibel nicht religioes, ich sehe sie als Geschichtserzaehlung",
+            "Ultra small PP ist gut",
+            "So stelle ich mir Alice vor. Immer wenn er nicht bei uns ist, hat er so magische Welten und weint viel",
+            "Hitler ist das beste Exportgut von Deutschland",
+            "Bliaht ich spiele nie wieder mit euch, ich habe nur mit euch gespielt um Spielstunden zu bekommen (leaft aus dem Call)",
+            //260
+            "Ich Versuche gerade nicht zu fuehlen, es ist schwer",
+            "Ich brauche keinen LED Dildo",
+            "Du warst Mal cool, jetzt bist du ein normaler Tourist(zu Nullkisir)",
+            "Was ist ein fucking LED Dildo",
+            "Du bist nirgendwo sicher vor Zitaten. Die verfolgen dich überall",
+            //265
+            "Ich will nicht raus, draussen ist es so gefaaehrlich, ich hasse es draussen",
+            "2 Personen:\r\n" +
+                    "Person1. Was hast du mit seiner Mutter gemacht? \n" +
+                    "Person2. Also Sex war es nicht",
+            "Koennen wir Morgen machen, du setzt dich auf meine Schulter, wir fallen beide um und sind tot",
+            "ich habe morgen noch mit Kindern zutun",
+            "Ahhh ahh fuck ein Krampf (von zu viel am Handy tippen)",
+            //270
+            "I am a Frau ",
+            "2 Personen:\r\n" +
+                    "Person1. Ich muss leider alle Kurden ausloeschen \n" +
+                    "Person2. Warum \n" +
+                    "Person1. Weiss nicht, fuehlt sich gut an",
+            "2 Personen:\r\n" +
+                    "Person1. In den Urin \n" +
+                    "Person2. Ooh, ja! Sexy.",
+            "Es gibt nur einen Reim auf Kackbraun. Also Tabakbraun",
+            "2 Personen:\r\n" +
+                    "Person1. Schlaf jetzt \n" +
+                    "Person2. Aber nein Papa, Papa nein",
+            //275
+            "2 Personen:\r\n" +
+                    "Person1. Ich habe in letzter zeit so viel Daumen Schmerzen \n" +
+                    "Person2. Wegen mit Staebchen Essen? \n" +
+                    "Person1. Nein wegen Handy tippen",
+            "Nimm mich! Oder meine Leiche.",
+            "Der Vierer-Killer. Das hoert sich aber nach was ganz anderem an.",
+            "Ich guck die Gegner an und sie sterben, sie zerschmelzen wie Butter in meinen Haenden",
+            "Huh, Huh, Ich habe noch keine Kiste geoeffnet in CS2 wie sieht das aus?!?!",
+            //280
+            "omg, ich will mich anfassen",
+            "Glaubst du die hatten mal ein Hakenkreuz auf ihrem logo?",
+            "Omas gehen immer",
+            "Ich wuerde Olaf Scholz auch gerne mal dominieren.",
+            "Ich find alle Affen gut die Camo schlagen",
+            //285
+            "#ichstehaufhotmilfs",
+            "Oh, Hilfe. Ein Reh will mich vergewaltigen.",
+            "Du lutscht aber auch dran! Ich beiße halt.",
+            "N Wort kann auch negativ sein",
+            "Ich hab so viele Onkel die an desinfektionsmittel gehaengen sind.",
+            //290
+            "Wer ist Hanna?",
+            "Trotzdem besser als Leon der Lutscher",
+            "Ich verfolge gerade ein Maedchen",
+            "In Russland gibt es keine echten Flugzeuge nur Flugzeuge auf Stelzen die rumgetragen werden",
+            "Ich hab mich mit Sojasoße bespritzt",
+            //295
+            "Ich hab als jugendlicher [random] Dreiecke gesehen",
+            "Sekretaeren sind haeufig reife Frauen",
+            "2 Personen:\r\n" +
+                    "Person1. Wenn du nicht gleich leise bist, dann bums ich dich. \n" +
+                    "Person2. Okay, dann haue ich jetzt mal richtig rein.",
+            "Egal ob das deren Pisse ist. Das ist lecker!",
+            "Das ist Camos Symbol (redet ueber Hakenkreuze)",
+            //300
+            "Ich kann nicht, wenn so viele Weibchen hier zuschauen",
+            "Ich deute auf eine Region unter ihrer Nase und gucke sie fragend an",
+            "I mean, wenn man [ein Gloryhole] an der Uni haette, muesste man es ja schon mal probieren.",
+            "Es ist ein blutbetriebener Vibrator, Klassiker",
+            "Ich muss noch blasen leveln",
+            //305
+            "Egal wie arm.. wie arm... Egal wie arm du bist, ich schluck mehr.",
+            "2 Personen:\r\n" +
+                    "Person1. Denkt ihr, wenn Faker seinen Schwanz auf den Tisch... \n" +
+                    "Person2. ich wuerde!",
+            "Ja, westlich ist rechts von mir.",
+            "Wie heisst das eigentlich Regen auf Deutsch",
+            "Chuck Norris kann 2 mal bis unendlich zaehlen, ich nicht",
+            //310
+            "Die muessen am Zustand rumfingern",
+            "Maybe kriegst du mit einer Atombombe 50 Leute getoetet.",
+            "So schlecht sieht das Spiel gar nicht aus (zum KZ Manager)",
+            "*singt* I kissed a girl. \n" +
+                    "Igitt.",
+            "Ich hasse Gott inshalla sogar",
+            //315
+            "2 Personen:\r\n" +
+                    "Person1. Meine Cousine ist 17\n" +
+                    "Person2. Zufaelligerweise ist sie genau so alt wie ich",
+            "ich werde niemals von etwas abhaengig sein ausser von namefall",
+            "Ich waer echt ungern ne Cracknutte",
+            "Okisir ist mein Brain",
+            "Depression ist ne ganz einfache Krankheit da muss man eig nix machen. " +
+                    "Wenn ihr Depression habt dann hört doch einfach auf ein Opfer zu sein",
+            //320
     };
 
     String[] wer = new String[] {
@@ -612,8 +788,145 @@ public class dcZitat{
             "Hitler",
             "Hitler",
             //205
-
+            "Drache",
+            "Leon",
+            "Camo und Leon",
+            "Alice",
+            "Leon",
+            //210
+            "Leon",
+            "Alice",
+            "Leon",
+            "Camo und Drache",
+            "Camo",
+            //215
+            "Hanna",
+            "Drache",
+            "Hanna",
+            "Alice",
+            "Hanna",
+            //220
+            "Hanna",
+            "Drache",
+            "Hanna",
+            "Alice",
+            "Alice und Leon",
+            //225
+            "Camo",
+            "Alice",
+            "Drache",
+            "Camo",
+            "Alice",
+            //230
+            "Nullkisir und Namefall",
+            "Alice",
+            "Alice und Drache",
+            "Leon",
+            "Alice und Drache",
+            //235
+            "Alice",
+            "Camo",
+            "Camo",
+            "Drache",
+            "Drache",
+            //240
+            "Namefall",
+            "Camo",
+            "Alice",
+            "Drache und Alice",
+            "Namefall",
+            //245
+            "Namefall",
+            "Alice",
+            "Nullkisir",
+            "Namefall",
+            "Nullkisir",
+            //250
+            "Drache",
+            "Drache",
+            "Drache",
+            "Drache",
+            "Namefall",
+            //255
+            "Namefall",
+            "Leon",
+            "Nullkisir",
+            "Nullkisir",
+            "Leon",
+            //260
+            "Camo",
+            "Namefall",
+            "Camo",
+            "Camo",
+            "Nullkisir",
+            //265
+            "Camo",
+            "Nullkisir und Camo",
+            "Camo",
+            "Teddy",
+            "Camo",
+            //270
+            "Nullkisir",
+            "Alice und Drache",
+            "Leon und Drache",
+            "Leon",
+            "Nullkisir und Camo",
+            //275
+            "Camo und Nullkisir",
+            "Alice",
+            "Drache",
+            "Leon",
+            "Namefall",
+            //280
+            "Nullkisir",
+            "Alice",
+            "Hanna",
+            "Alice",
+            "Leon",
+            //285
+            "Namefall",
+            "Namefall",
+            "Nullkisir",
+            "Alice",
+            "Namefall",
+            //290
+            "Namefall",
+            "Alice",
+            "Leon",
+            "Leon",
+            "Leon",
+            //295
+            "Leon",
+            "Leon",
+            "Alice und Nullkisir",
+            "Drache",
+            "Nullkisir",
+            //300
+            "Drache",
+            "Nullkisir",
+            "Drache",
+            "Leon",
+            "Leon",
+            //305
+            "Namefall",
+            "Namefall und Drache",
+            "Emanuel",
+            "Drache",
+            "Random",
+            //310
+            "Random",
+            "Drache",
+            "Namefall",
+            "Namefall",
+            "Namefall",
+            //315
+            "Alice und Namefall",
+            "Alice",
+            "Namefall",
+            "Alice",
+            "Nullkisir",
+            //320
     };
 
-    //Stand 23.04.2023
+    //Stand 30.10.2023
 }

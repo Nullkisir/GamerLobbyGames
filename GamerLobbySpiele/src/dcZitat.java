@@ -537,8 +537,16 @@ public class dcZitat{
             "Ich waer echt ungern ne Cracknutte",
             "Okisir ist mein Brain",
             "Depression ist ne ganz einfache Krankheit da muss man eig nix machen. " +
-                    "Wenn ihr Depression habt dann hört doch einfach auf ein Opfer zu sein",
+                    "Wenn ihr Depression habt dann hoert doch einfach auf ein Opfer zu sein",
             //320
+            "Federmaeppchen (es haben 3 Personen gesagt, einmal alle in Alphabetischer Reihenfolge)",
+            "Federmappe ist einfach normal",
+            "Ich wuerde auch gerne Maenner aus meinem Arsch ziehen.",
+            "Turm rueckwaerts heisst murt",
+            "Selten. Aber oft!",
+            //325
+            "Digga die wissen nicht was Holz ist (meint Afrikaner)",
+
     };
 
     String[] wer = new String[] {
@@ -926,6 +934,14 @@ public class dcZitat{
             "Alice",
             "Nullkisir",
             //320
+            "Drache und Emanuel und Hanna",
+            "Nullkisir",
+            "Drache",
+            "Alice",
+            "Nullkisir",
+            //325
+            "Alice",
+
     };
 
     //Stand 30.10.2023

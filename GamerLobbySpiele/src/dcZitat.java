@@ -546,6 +546,59 @@ public class dcZitat{
             "Selten. Aber oft!",
             //325
             "Digga die wissen nicht was Holz ist (meint Afrikaner)",
+            "Alyoni geht mit seinen Haenden Alice seine Nougatschlaeuse erkunden",
+            "Alony",
+            "meint ihr jetzt Niggarr",
+            "2 Personen:\r\n" +
+                    "Person1. Person 2 ich darf dich als Nutte benutzen?\n" +
+                    "Person2. ja",
+            //330
+            "Wir leben in einer Stadt die sich selbst aussuchen durfte " +
+                    "welche Religion sie haben darf und wir haben uns für den Protestantismus entschieden",
+            "2 Personen:\r\n" +
+                    "Person1. ist euch Drache zu einsam?\n" +
+                    "Person2. Naja ihr kennt ja seinen Bart...",
+            "rauuus auuus Duttschland mit dier",
+            "Leon ist fuer das eine gute Zustaendig",
+            "Ich verfolge gerne Maedchen, ja okay das ist Lustig",
+            //335
+            "Ich mach immer schlechte witze",
+            "Die geben auch unendlich wards für controllwards aus",
+            "Die sehen doch eh alle gleich aus (spricht über T1)",
+            "3 Personen:\r\n" +
+                    "Person1. Hoer auf\n" +
+                    "Person2. Nein" +
+                    "Person1. Ich werde dich belaestigen und Jesus wird dabei zuschauen" +
+                    "Person3. Sexy",
+            "Ich bin homophob",
+            //340
+            "Kummer am Rand",
+            "Birne will Anno spielen",
+            "Dann werde ich erstmal mit dem Pferd... Nein das sage ich jetzt nicht. Ich werde auf dem Pferd.... Ich werde schlafen.",
+            "Die meisten Menschen sind paedophil",
+            "Fake New sind einfach die besseren News",
+            //345
+            "Dieser scheiss Araber,... hat den halben Koran als Namen",
+            "(Jemand macht einen Witz)\n" +
+                    "Ich verstehe den Spass nicht",
+            "Anno wer deine Mutter ... egal",
+            "Es ist voll oft okay jemanden umzubringen",
+            "Ich finde Leute umbringen nicht falsch",
+            //350
+            "relatable, ich hole mir auch immer einen auf den papst runter",
+            "Ich will einfach ein Wurm werden",
+            "Warum bist du der Sklave von Eslan? Bist du darum schwarz?",
+            "Ich kann ihm am Zueckerli lecken (meint Fritz Meineke)",
+            "Ich bin ein fahrender Terroranschlag",
+            //355
+            "Nennt mich mad minussen",
+            "3 Personen:\r\n" +
+                    "Person1. Drugs\n" +
+                    "Person2. Roblox?" +
+                    "Person1. Nein, Drugs" +
+                    "Person3. Dachs?",
+            "Ich kann nicht nach links rechts, dieses -Tigglen-, machen",
+
 
     };
 
@@ -941,6 +994,45 @@ public class dcZitat{
             "Nullkisir",
             //325
             "Alice",
+            "Drache",
+            "Drache",
+            "Hanna",
+            "Nullkisir und Alice",
+            //330
+            "Drache",
+            "Nullkisir und Emanuel",
+            "Drache",
+            "Emanuel",
+            "Nullkisir",
+            //335
+            "Nullkisir",
+            "Alice",
+            "Drache",
+            "Namefall und Alice und Leon",
+            "Namefall",
+            //340
+            "Leon",
+            "Drache",
+            "Nullkisir",
+            "Nullkisir",
+            "Nullkisir",
+            //345
+            "Drache",
+            "Nullkisir",
+            "Nullkisir",
+            "Nullkisir",
+            "Nullkisir",
+            //350
+            "Leon",
+            "Camo",
+            "Nullkisir",
+            "Drache",
+            "Alice",
+            //355
+            "Leon",
+            "Leon und Alice und Diego",
+            "Nullkisir",
+
 
     };
 

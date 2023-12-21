@@ -16,7 +16,7 @@ public class dcZitatGame {
         //Hier ist das was bei help weiter unten ausgegeben wird
         String moeglicheZitierer = "\nWenn das Zitat von 2. Leuten stammt dann verbindet diese mit einem"
                 + " ^und^ \nDie Reihenfolge der Personen ist in diesem Fall sehr wichtig"
-                + " \nAlice \nDrache \nNullkisir \nCamo \nNamefall \nLeon \nRandom \nHitler";
+                + " \nAlice \nDrache \nNullkisir \nCamo \nNamefall \nLeon \nEmanuel \nDiego \nRandom \nHitler";
 
         //Spieleranzahl wird fuer spaeter angegeben
         System.out.println("\nBitte tragt einmal die Spieleranzahl ein.");

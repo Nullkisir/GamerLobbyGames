@@ -1,4 +1,7 @@
 public class dcZitat{
+
+    //  ?-_-?   Wenn etwas nochmal nachgeguckt werden muss
+
     String[] zitate = new String[] {
 
             "typisches Kopf fick game",
@@ -567,8 +570,8 @@ public class dcZitat{
             "Die sehen doch eh alle gleich aus (spricht über T1)",
             "3 Personen:\r\n" +
                     "Person1. Hoer auf\n" +
-                    "Person2. Nein" +
-                    "Person1. Ich werde dich belaestigen und Jesus wird dabei zuschauen" +
+                    "Person2. Nein\n" +
+                    "Person1. Ich werde dich belaestigen und Jesus wird dabei zuschauen\n" +
                     "Person3. Sexy",
             "Ich bin homophob",
             //340
@@ -594,12 +597,114 @@ public class dcZitat{
             "Nennt mich mad minussen",
             "3 Personen:\r\n" +
                     "Person1. Drugs\n" +
-                    "Person2. Roblox?" +
-                    "Person1. Nein, Drugs" +
+                    "Person2. Roblox?\n" +
+                    "Person1. Nein, Drugs\n" +
                     "Person3. Dachs?",
             "Ich kann nicht nach links rechts, dieses -Tigglen-, machen",
-
-
+            "Warum darf ich mein Kind nicht schlagen?",
+            "2 Personen:\r\n" +
+                    "Person1. Wo bist du?\n" +
+                    "Person2. Beim Duuuuuden",
+            //360
+            "Husch husch, kommt in mein Loch!",
+            "Mein neuer Character wird...sehr freizuegig",
+            "junge ich mach meine Hose auf",
+            "Ha ist doch true sein Freund nimmt ihn hart ran (meint Camos Freund)",
+            "Ich kann euch nicht einladen.\n" +
+                    "Ah weil ich auf Play Alone geklickt habe",
+            //365
+            "Es gibt verschiedenes schwarz, (rot, blau)",
+            "Es sind nicht alle Hautfarben Hautfarben.",
+            "Was ist eine Sonne?",
+            "Aki ich lieb dich",
+            "ich hab statt pressing intensitaet pegging intensitaet gelesen",
+            //370
+            "2 Personen:\r\n" +
+                    "Person1. Ich will auf deinen Penis\n" +
+                    "Person2. Was muss ich nochmal machen um da drauf zu kommen?",
+            "Dann koennen wir 8 Tages reisen an einem Tag schaffen",
+            "2 Personen:\r\n" +
+                    "Person1. Deine favorites sind weg\n" +
+                    "Person2. Was nein, ... meine Favoriten sind weg",
+            "2 Personen:\r\n" +
+                    "Person1. Ich habe so viele Auslaender in meinem Team\n" +
+                    "Person2. Ist das schlimm?\n" +
+                    "Person1. Ja das ist schlimm",
+            "2 Personen:\r\n" +
+                    "Person1. Nein du bist Wittwer\n" +
+                    "Person2. Du bist meine Hand?",
+            //375
+            "17 ist Senna in nem Game gegen AP Nunu",
+            "Dieses Game wird es\n" +
+                    " ...\n" +
+                    "sag ich mir seid 5 Runden\n" +
+                    "(haben verloren)"
+            "Es heißt die Cage",
+            "doppel Lol",
+            "Kenek verbinde ich mit so ... tuerkischen Kenek halt",
+            //380
+            "Was ist der Ringfinger nochmal ... ist der links oder rechts vom Mittelfinger?",
+            "mein Ringfinger ist motorisch auf dem Level eines Fisches",
+            "2 Personen:\r\n" +
+                    "Person1. Der ist bestimmt 90 Grad gebogen\n" +
+                    "Person2. Ja das passiert manchmal\n" +
+                    "(es geht um den Penis von Person 2)",
+            "Du bist Polne (es geht um Namefall)",
+            "2 Personen:\r\n" +
+                    "Person1. Kerzen aus Stahl\n" +
+                    "Person2. Wie brennen die dann?",
+            //385
+            "Wie soll ich denn ein Lied schreiben?",
+            "Gib cock ma",
+            "Zwei Leute entscheiden einfach was 10 Leute machen. Und WO sie es machen!",
+            "Meine Mutter vergewaltigt mich.",
+            "ich glaube (krieg heisst) spezialni operation (russisch ausgesprochen)",
+            //390
+            "2 Personen:\r\n" +
+                    "Person1. Ich merk mir einfach den Geburtstag meiner Homies\n" +
+                    "Person2. Alle meine Omis sind Tod",
+            "2 Personen:\r\n" +
+                    "Person1. Wie spielt man Aatrox\n" +
+                    "Person2. Rekursiv",
+            "Ich hatte mal ne Zeit mehr Ureltern ...... Ne",
+            "Ja. Deine Mutter spielt lieber... lieber mit deinem Onkel... als mit dir!\n" +
+                    "(zu Alice)",
+            "Wenn ich an Drache denke, denke ich an ihn im Schlafanzug.",
+            //395
+            "Ja Drache auch Babys haben Gewicht",
+            "3 Personen:\r\n" +
+                    "Person1. ist das deine Tante\n" +
+                    "Person2. Ich weiß nicht ob ich überhaupt eine habe\n" +
+                    "Person3. Haben deine Eltern Geschwister?\n" +
+                    "Person2. Ja\n" +
+                    "...\n" +
+                    "...\n" +
+                    "...\n" +
+                    "Person2. Ich weiss halt nicht die Definition von Tante",
+            "Was ist ein Hardcover?",
+            "2 Personen:\r\n" +
+                    "Person1. Von schwarzen\n" +
+                    "Person2. Also von Bonobos",
+            "ich hoffe die griechen werden richtig fett ficken bei mir",
+            //400
+            "ich dachte einfach es wäre 19 Uhr\n" +
+                    "(es ist 2:48)"
+            "2 Personen:\r\n" +
+                    "Person1. Es ist nicht halb 1\n" +
+                    "Person2. doch es ist 31 Uhr\n" +
+                    " (es war 20:31)",
+            "Ich haette schon bock dir was zu schenken was ich mit meinem Handy steuern kann \n" +
+                    "(meint einen analperlenvibrator)",
+            "Ich wuerde das auch mit finanzieren (ein Dildo für Camo)",
+            "ich werd da so traeumen von \n" +
+                    "(Wie ein Penis in der geweiteten Hahnroehre eines anderen Penises steckt)"
+            //405
+            "ich will immer statt Muslime Islamisten sagen",
+            "2 Personen:\r\n" +
+                    "Person1. Ich bin strikt gegen Frauen\n" +
+                    "Person2. Same",
+            "Ich bin irgendwie seit corona aelter geworden",
+            "Im Café trinkst du einen Café",
     };
 
     String[] wer = new String[] {
@@ -1032,8 +1137,67 @@ public class dcZitat{
             "Leon",
             "Leon und Alice und Diego",
             "Nullkisir",
-
-
+            "Nullkisir",
+            "Nullkisir und Lily", //    ?-_-?   Ist Emanuel Lily?
+            //360
+            "Leon",
+            "Nullkisir",
+            "Namefall",
+            "Alice",
+            "Alice",
+            //365
+            "Drache",
+            "Nullkisir",
+            "Drache",
+            "Lily",
+            "Lily", //  ?-_-?   Ist Emanuel Lily?
+            //370
+            "Drache und Nullkisir",
+            "Nullkisir",
+            "Nullkisir und Drache",
+            "Nullkisir und Alice",
+            "Nullkisir und Drache",
+            //375
+            "Nullkisir",
+            "Namefall",
+            "Drache",
+            "Drache",
+            "Nullkisir",
+            //380
+            "Drache",
+            "Nullkisir",
+            "Alice und Drache",
+            "Drache",
+            "Alice und Drache",
+            //385
+            "Drache",
+            "Drache",
+            "Nullkisir",
+            "Drache",
+            "Leon",
+            //390
+            "Alice und Nullkisir",
+            "Nullkisir und Alice",
+            "Alice",
+            "Nullkisir",
+            "Nullkisir",
+            //395
+            "Nullkisir",
+            "Nullkisir und Drache und Alice",
+            "Drache",
+            "Alice und Lily",   //  ?-_-?   Ist Emanuel Lily?
+            "Nullkisir",
+            //400
+            "Nullkisir",
+            "Drache und Alice",
+            "Alice",
+            "Drache",
+            "Nullkisir",
+            //405
+            "Alice",
+            "Alice und Nullkisir",
+            "Lily",
+            "Drache",
     };
 
     //Stand 30.10.2023

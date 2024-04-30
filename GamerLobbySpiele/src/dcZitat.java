@@ -638,7 +638,7 @@ public class dcZitat{
             "Dieses Game wird es\n" +
                     " ...\n" +
                     "sag ich mir seid 5 Runden\n" +
-                    "(haben verloren)"
+                    "(haben verloren)",
             "Es heißt die Cage",
             "doppel Lol",
             "Kenek verbinde ich mit so ... tuerkischen Kenek halt",
@@ -688,7 +688,7 @@ public class dcZitat{
             "ich hoffe die griechen werden richtig fett ficken bei mir",
             //400
             "ich dachte einfach es wäre 19 Uhr\n" +
-                    "(es ist 2:48)"
+                    "(es ist 2:48)",
             "2 Personen:\r\n" +
                     "Person1. Es ist nicht halb 1\n" +
                     "Person2. doch es ist 31 Uhr\n" +
@@ -697,7 +697,7 @@ public class dcZitat{
                     "(meint einen analperlenvibrator)",
             "Ich wuerde das auch mit finanzieren (ein Dildo für Camo)",
             "ich werd da so traeumen von \n" +
-                    "(Wie ein Penis in der geweiteten Hahnroehre eines anderen Penises steckt)"
+                    "(Wie ein Penis in der geweiteten Hahnroehre eines anderen Penises steckt)",
             //405
             "ich will immer statt Muslime Islamisten sagen",
             "2 Personen:\r\n" +
@@ -705,6 +705,27 @@ public class dcZitat{
                     "Person2. Same",
             "Ich bin irgendwie seit corona aelter geworden",
             "Im Café trinkst du einen Café",
+            "2 Personen:\r\n" +
+                    "Person1. Ich will meinen zensierten Hitler zurueck\n" +
+                    "Person2. Ich will unzensierten Hitler",
+            //410
+            "ja wenn das so bei dir ist wuerde ich auch kein Kaese moegen, das ist naemlich Sperma ",
+            "Ich bin ja auch Rassist",
+            "paedophelie ist halt auch anders als viele denken",
+            "Ich komm nicht aus meinem Sextoy raus",
+            "Ich bin für den [Ukraine-Russland]-Krieg",
+            //415
+            "Ich bin fuer viele Kriege",
+            "Ich hab gesagt ich bin für die Demokratie, und deswegen toeten wir die Juden!",
+            "2 Personen:\r\n" +
+                    "Person1. Also, das einzige was die Nazis deiner Meinung nach falsch gemacht haben, war die Demokratie in Deutschland aufzuloesen?\n" +
+                    "Person2. ja",
+            "das halbe spiel war das ich drache beim kinderzeugen zugeschaut habe",
+            "Wie, \"morgen Nachmittag\"? War das nicht schon?",
+            //420
+            "Dann lutsche ich ein bisschen Alice sein Hand ab. [...]. Wenn er darauf steht..",
+            "Du weirdo, bestaeub mich (zu Drache)"
+
     };
 
     String[] wer = new String[] {
@@ -1198,7 +1219,25 @@ public class dcZitat{
             "Alice und Nullkisir",
             "Lily",
             "Drache",
+            "Lily und Alice",
+            //410
+            "Nullkisir",
+            "Nullkisir",
+            "Nullkisir",
+            "Drache",
+            "Nullkisir",
+            //415
+            "Nullkisir",
+            "Nullkisir",
+            "Leon und Nullkisir",
+            "Nullkisir",
+            "Camo",
+            //420
+            "Drache",
+            "Leon"
+
     };
+
 
     //Stand 30.10.2023
 }
